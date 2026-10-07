@@ -13,8 +13,6 @@ Modelagem de Dados — Modelagem e estruturação de bancos
 
 APIs — Desenvolvimento e integração
 
-Lua — Desenvolvimento e scripts
-
 Java — Em aprendizado
 
 Git & GitHub — Versionamento e gerenciamento de projetos
