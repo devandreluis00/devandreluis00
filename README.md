@@ -6,11 +6,17 @@ Sou estudante de Engenharia de Software e desenvolvedor com foco em Back-end. Te
 ## Tecnologias
 
 C — Desenvolvimento e lógica de programação
+
 SQL — Consultas e banco de dados
+
 Modelagem de Dados — Modelagem e estruturação de bancos
+
 APIs — Desenvolvimento e integração
+
 Lua — Desenvolvimento e scripts
+
 Java — Em aprendizado
+
 Git & GitHub — Versionamento e gerenciamento de projetos
 
 ## Experiência
